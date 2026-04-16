@@ -81,22 +81,10 @@ g++ PR-2.cpp
 
 ---
 
-## 💻 Sample Output
+## 💻 Output
 
 ```
----- Student Management System ----
-1. Add Student
-2. Display All Student
-3. Search Student by Id
-4. Remove Student by Id
-0. Exit
-
-Enter choice : 1
-Enter Id : 101
-Enter Name : tisha
-Student Added Successfully..!
-```
-
+![image alt]{}
 ---
 
 ## 📊 Example Operations
