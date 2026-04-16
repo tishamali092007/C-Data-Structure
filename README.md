@@ -84,7 +84,7 @@ g++ PR-2.cpp
 ## 💻 Output
 
 ```
-![image alt]{}
+![image alt]{https://github.com/tishamali092007/C-Data-Structure/blob/c9bb269a56b5c0253587c04aabebc5b082cf3a6c/PR-2-IMAGE-1.png}
 ---
 
 ## 📊 Example Operations
